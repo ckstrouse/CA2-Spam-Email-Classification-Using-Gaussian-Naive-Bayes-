@@ -85,3 +85,7 @@ When the notebook is run correctly, it prints progress messages for each major s
 Final Notes
 
 This project is designed to closely follow the CA02 assignment instructions and reference notebook. The implementation reflects the intended learning objectives of the assignment and emphasizes understanding the full machine learning pipeline rather than model optimization or alternative approaches.
+
+Author
+
+Created by Jasmine Cheng and Christopher Strouse
